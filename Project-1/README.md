@@ -11,7 +11,7 @@
 ### Описание проекта    
 На основе базы резюме, выгруженной с сайта hh.ru, нужно подготовить данные для построения модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
 
-:arrow_up:[к оглавлению](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/README%20copy.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/Project-1/README.md#оглавление)
 
 
 ### Какой кейс решаем?    
