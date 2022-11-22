@@ -1,17 +1,17 @@
 # Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта]()  
-[2. Какой кейс решаем?]()  
-[3. Краткая информация о данных]()  
-[4. Этапы работы над проектом]()  
-[5. Результат]()    
-[6. Выводы]() 
+[1. Описание проекта](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/README%20copy.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
+[2. Какой кейс решаем?](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/README%20copy.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)  
+[3. Краткая информация о данных](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/README%20copy.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
+[4. Этапы работы над проектом](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/README%20copy.md#%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)  
+[5. Результат](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/README%20copy.md#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)    
+[6. Выводы](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/README%20copy.md#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B) 
 
 ### Описание проекта    
 На основе базы резюме, выгруженной с сайта hh.ru, нужно подготовить данные для построения модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/README%20copy.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Какой кейс решаем?    
@@ -40,7 +40,7 @@
 ### Краткая информация о данных
 
   
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/README%20copy.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Этапы работы над проектом  
@@ -50,19 +50,19 @@
 3. Разведывательный анализ
 4. Очистка данных
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/README%20copy.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Результаты:  
 Подготовленные данные, необходимые для построения модели.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/README%20copy.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Выводы:  
 В ходе данного проекта мы усовершенствовали свои навыки написания кода на PYTHON, продолжили освоение работы с GitHub, закрепили навыки работы с данными.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnastasiyaKisslaya/project_DST/blob/main/README%20copy.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
